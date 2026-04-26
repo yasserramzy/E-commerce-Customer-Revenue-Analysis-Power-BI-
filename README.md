@@ -101,7 +101,7 @@ You can access and download the dataset from here:
 ---
 
 ### 🏁 Product & Revenue Insights
-![Product Insights](images/Product%20&%20Revenue%20Insghts.png)
+![Product Insights](images/Product%20&%20Revenue%20Insights.png)
 
 ---
 
