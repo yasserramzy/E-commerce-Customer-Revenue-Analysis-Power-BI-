@@ -5,6 +5,7 @@
 This project presents a comprehensive **E-commerce analytics dashboard** built using Power BI.
 It focuses on understanding business performance, customer behavior, and retention patterns to support data-driven decision-making.
 
+---
 
 ## 🎯 Objectives
 
@@ -13,6 +14,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Evaluate customer retention and churn behavior
 * Discover key product and revenue drivers
 
+---
 
 ## 📊 Dashboard Pages
 
@@ -22,6 +24,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Revenue trends over time
 * Top countries and products
 
+---
 
 ### 🥈 Customer Intelligence
 
@@ -30,6 +33,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Revenue contribution by segment
 * Top customers analysis
 
+---
 
 ### 🥉 Retention Analysis
 
@@ -38,6 +42,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Retention trend visualization
 * Interactive tooltips showing customer count & revenue
 
+---
 
 ### 🏁 Product & Revenue Insights
 
@@ -45,6 +50,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Revenue vs Quantity analysis by product category
 * Identification of high-volume vs high-value products
 
+  ---
 
 ## 🧠 Key Insights
 
@@ -53,6 +59,7 @@ It focuses on understanding business performance, customer behavior, and retenti
 * Certain products generate high sales volume but relatively lower revenue
 * Revenue is concentrated within a limited number of products and regions
 
+---
 
 ## 📂 Dataset
 
@@ -61,6 +68,7 @@ Due to file size limitations, the raw dataset is not included in this repository
 You can access and download the dataset from here:
 👉 **[https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci]**
 
+---
 
 ## 🛠️ Tools & Techniques
 
@@ -72,29 +80,30 @@ You can access and download the dataset from here:
 * Cohort Analysis
 * Interactive Dashboard Design
 
+---
 
 ## 📷 Dashboard Preview
 
-*(## 📷 Dashboard Preview
 
 ### 🥇 Executive Overview
-![Executive Overview](images/E-commerce Performance Overview.png)
+![Executive Overview](images/E-commerce%20Performance%20Overview.png)
 
 ---
 
 ### 🥈 Customer Intelligence
-![Customer Intelligence](images/Customer Interlligence.png)
+![Customer Intelligence](images/Customer%20Interlligence.png)
 
 ---
 
 ### 🥉 Retention Analysis
-![Retention Analysis](images/Retention Analysis.png)
+![Retention Analysis](images/Retention%20Analysis.png)
 
 ---
 
 ### 🏁 Product & Revenue Insights
-![Product Insights](images/Product & Revenue Insghts.png)
-)*
+![Product Insights](images/Product%20&%20Revenue%20Insghts.png)
+
+---
 
 ## 🚀 How to Use
 
